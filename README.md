@@ -4,7 +4,7 @@
 - 📫 How to reach me on discord
 - 😄 Pronouns: he/him
 
-More you can read [here](https://qwerty.daxel.pl)
+More you can read [here](https://qwerty.ovh)
 
 <!---
 QwertyCodeQC/QwertyCodeQC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
