@@ -14,6 +14,9 @@ I'm a big fan of TypeScript and React. My favorite games are Minecraft and Rocke
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+## Feaurted
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astracompiler&repo=cli)](https://github.com/astracompiler/cli)
+
 ## My skills
 
 ### Frontend
