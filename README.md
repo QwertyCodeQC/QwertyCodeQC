@@ -18,7 +18,7 @@ I'm a big fan of TypeScript and React. My favorite games are Minecraft and Rocke
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astracompiler&repo=cli&show_owner=true)](https://github.com/astracompiler/cli)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertycodeqc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertycodeqc&layout=compact)
 
 ## My skills
 
