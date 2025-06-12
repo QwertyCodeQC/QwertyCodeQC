@@ -1,4 +1,4 @@
-<h1 align="center">QwertyCodeQC</h1>
+<h1 align="center"><a href="https://qwerty.ovh">QwertyCodeQC</a></h1>
 <h3 align="center">Welcome to my GitHub!</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QwertyCodeQC&show_icons=true"/>
