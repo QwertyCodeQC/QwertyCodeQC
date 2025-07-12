@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://qwerty.ovh">QwertyCodeQC</a></h1>
 <h3 align="center">Welcome to my GitHub!</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QwertyCodeQC&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imqwertyc&show_icons=true"/>
 </p>
 
 ## About me
@@ -18,7 +18,7 @@ I'm a big fan of TypeScript and React. My favorite games are Minecraft and Rocke
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astracompiler&repo=cli&show_owner=true)](https://github.com/astracompiler/cli)
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertycodeqc&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imqwertyc&layout=compact)
 
 ## My skills
 
